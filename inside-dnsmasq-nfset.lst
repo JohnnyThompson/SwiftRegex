@@ -707,3 +707,29 @@ nftset=/zedge.net/4#inet#fw4#vpn_domains
 nftset=/zendesk.com/4#inet#fw4#vpn_domains
 nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
+nftset=/discord.com/4#inet#fw4#vpn_domains
+nftset=/discord.gg/4#inet#fw4#vpn_domains
+nftset=/discordapp.com/4#inet#fw4#vpn_domains
+nftset=/discord.media/4#inet#fw4#vpn_domains
+nftset=/discordstatus.com/4#inet#fw4#vpn_domains
+nftset=/discord.co/4#inet#fw4#vpn_domains
+
+# CDN и мультимедиа
+nftset=/cdn.discordapp.com/4#inet#fw4#vpn_domains
+nftset=/media.discordapp.net/4#inet#fw4#vpn_domains
+nftset=/images.discordapp.net/4#inet#fw4#vpn_domains
+
+# WebSocket и API
+nftset=/gateway.discord.gg/4#inet#fw4#vpn_domains
+nftset=/gateway.discordapp.com/4#inet#fw4#vpn_domains
+nftset=/status.discord.com/4#inet#fw4#vpn_domains
+nftset=/api.discord.gg/4#inet#fw4#vpn_domains
+nftset=/api.discordapp.com/4#inet#fw4#vpn_domains
+
+# Voice сервера (используют отдельные домены)
+nftset=/voice.discord.gg/4#inet#fw4#vpn_domains
+nftset=/rtc.discord.gg/4#inet#fw4#vpn_domains
+
+# Телеметрия и логи
+nftset=/crash.discordapp.com/4#inet#fw4#vpn_domains
+nftset=/metrics.discordapp.com/4#inet#fw4#vpn_domains
