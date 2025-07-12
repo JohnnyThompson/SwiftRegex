@@ -748,3 +748,18 @@ nftset=/vse.to/4#inet#fw4#vpn_domains
 nftset=/aniqit.com/4#inet#fw4#vpn_domains
 nftset=/animego.org/4#inet#fw4#vpn_domains
 nftset=/zoro.to/4#inet#fw4#vpn_domains
+nftset=/youtube.com/4#inet#fw4#vpn_domains
+
+# YouTube domains
+
+nftset=/www.youtube.com/4#inet#fw4#vpn_domains
+nftset=/m.youtube.com/4#inet#fw4#vpn_domains
+nftset=/youtube-nocookie.com/4#inet#fw4#vpn_domains
+nftset=/i.ytimg.com/4#inet#fw4#vpn_domains
+nftset=/yt3.ggpht.com/4#inet#fw4#vpn_domains
+nftset=/ytimg.com/4#inet#fw4#vpn_domains
+nftset=/s.ytimg.com/4#inet#fw4#vpn_domains
+nftset=/youtubei.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/youtube.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/googlevideo.com/4#inet#fw4#vpn_domains
+
